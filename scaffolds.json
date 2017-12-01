@@ -1,0 +1,16 @@
+{
+  "bootstrap-jumbotron": {
+    "title": "Bootstrap Jumbotron",
+    "type": "static",
+    "description":
+      "Super simple scaffold for Bootstrap 4 beta jumbotron and SCSS.",
+    "url": "pingyhq/pingy-scaffold-bootstrap-jumbotron"
+  },
+  "bootstrap": {
+    "title": "Bootstrap Web Scaffold",
+    "type": "web",
+    "description":
+      "Dozens of Bootstrap 4 templates. Can be used to scaffold with CSS or SCSS.",
+    "url": "pingyhq/pingy-scaffold-bootstrap"
+  }
+}
