@@ -11,9 +11,9 @@ command:
 pingy scaffold [alias]
 ```
 
-Use the scaffold alias as the key for each entry in `scaffold.json`. Use the
-dash (`-`) character to separate multiple words in the alias (e.g..
-`bootstrap-jumbotron`). Here's an example of a scaffold entry
+Use your scaffold's `alias` as the key for each entry in `scaffold.json`. Use
+the dash (`-`) character to separate multiple words in the alias (e.g..
+`bootstrap-jumbotron`). Here's an example of a scaffold entry:
 
 ```json
 "bootstrap-jumbotron": {
