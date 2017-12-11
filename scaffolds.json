@@ -12,5 +12,12 @@
     "description":
       "Dozens of Bootstrap 4 templates. Can be used to scaffold with CSS or SCSS.",
     "url": "pingyhq/pingy-scaffold-bootstrap"
+  },
+  "bulma": {
+    "title": "Bulma Web Scaffold",
+    "type": "web",
+    "description":
+      "Free Pingy Web Scaffold for the Bulma CSS Framework Can be used to scaffold with CSS or SCSS.",
+    "url": "pingyhq/pingy-scaffold-bulma"
   }
 }
